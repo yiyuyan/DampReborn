@@ -1,0 +1,2 @@
+/summon minecraft:creeper
+/summon minecraft:tnt
